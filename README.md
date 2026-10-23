@@ -36,10 +36,6 @@ The process included:
 2. **Product Performance**: top and bottom 5 by sales, profit and quantity
 3. **Period Comparison**: two date selectors to compare units, profit and sales
 
-![Overview](screenshots/overview.png)
-![Product Performance](screenshots/product-performance.png)
-![Period Comparison](screenshots/period-comparison.png)
-
 ## Key Findings
 - **Electronics carries the business.** 5 of the 30 products generate about 73% of sales. The top five by sales are iPhone 14, Sony Bravia TV, HP Pavilion, MacBook Air and Galaxy S21.
 - **Sales were up in 2023, but not a growth story.** Annual sales were roughly 33.2M (2020), 31.2M (2021), 29.7M (2022) and 35.3M (2023). Within 2023, Q3 was the peak (about 10.8M against 7.5M in Q2). One year of quarterly data isn't enough to call it seasonal.
@@ -47,7 +43,7 @@ The process included:
 - **Sales are concentrated in central and northern cities.** Bhopal, Indore and Kanpur lead, with Mumbai and Pune behind them.
 
 ## Limitations
-- Profit uses an assumed 10% margin, so profit insights mirror sales insights.
+- Profit was assumed 10% margin, so profit insights mirror sales insights.
 - Customer and product data is synthetic, so findings illustrate the analysis, not a real business.
 
 ## Tools
